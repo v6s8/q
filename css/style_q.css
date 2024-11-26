@@ -1,7 +1,7 @@
 *{
     padding: 0px;
     margin:0px;
-    font-family: "Arial","Microsoft YaHei","榛戜綋","瀹嬩綋",sans-serif;
+    font-family: "Arial","Microsoft YaHei","中文","中国",sans-serif;
 }
 body::before{
     content: "";
